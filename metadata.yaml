@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3561
     wikipedia: http://it.wikipedia.org/wiki/Emilio_De_Marchi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17905#Vecchie-cadenze-e-nuove
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-03-03'
 gutenberg_type: Text
