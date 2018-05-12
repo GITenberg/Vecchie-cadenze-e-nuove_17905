@@ -1,0 +1,29 @@
+_repo: Vecchie-cadenze-e-nuove_17905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Marchi, Emilio
+    alias: Marchi, Emilio de
+    birthdate: 1851
+    deathdate: 1901
+    gutenberg_agent_id: '3561'
+    url: http://www.gutenberg.org/2009/agents/3561
+    wikipedia: http://it.wikipedia.org/wiki/Emilio_De_Marchi
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17905'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Vecchie cadenze e nuove
+url: http://www.gutenberg.org/ebooks/17905
